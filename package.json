@@ -1,0 +1,19 @@
+{
+  "name": "workout-planner-server",
+  "version": "1.0.0",
+  "description": "API for Workout Planner App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielmmf/workout-planner-server.git"
+  },
+  "author": "gabrielmmf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielmmf/workout-planner-server/issues"
+  },
+  "homepage": "https://github.com/gabrielmmf/workout-planner-server#readme"
+}
